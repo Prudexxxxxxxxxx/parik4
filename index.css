@@ -276,7 +276,7 @@ h4{
         transform: translate(-50%, 50%);
       }
       .header{
-        background-color: #f4f4f4;
+       background-color: #fdfdfd;
         display: flex;
         align-items: center;
         color: black;
